@@ -103,12 +103,15 @@ Zainstaluj teraz Node.js i NPMa:
 Jak nie chcesz jeszcze instalować TSa, to zawsze możesz się nim pobawić na TS: Playground:
 
 - [TS Playground](https://www.typescriptlang.org/play)
-- [TypeScript Tutorial](https://www.youtube.com/watch?v=30LW17). 
+- [TypeScript Tutorial](https://www.youtube.com/watch?v=30LWjhZzg50)
 
 
 # 4. No fajno, umiem HTMLa, CSSa, TSa, co dalej?
 
-Teraz jest kilka dróg rozwoju. Tak jak w Pokemonach pierwszy wybór jest ciężki: Pokemon Wodny, Ognisty czy może Trawiasty?
+Teraz jest kilka dróg rozwoju. Tak jak w Pokemonach pierwszy wybór jest ciężki:
+- Pokemon Wodny
+- Ognisty czy może
+- Trawiasty?
 
 Wybór Frameworka może być na początku problemem. 
 
@@ -120,7 +123,7 @@ Jak się kogoś z Fronta spytacie, jaki Framework, to w 90% przypadków usłyszy
 Z nich będą: 
 
 - [NextJS](https://nextjs.org/)
-- [SolidJS](https://www.solidjs.com/ecosystem)
+- [SolidJS](https://www.solidjs.com/)
 - [Svelte](https://svelte.dev/)
 - [Astro](https://astro.build/)
 - [Remix](https://remix.run/)
