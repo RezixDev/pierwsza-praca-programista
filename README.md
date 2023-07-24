@@ -176,7 +176,7 @@ Polecam:
 
 # 10. Nauczyć się Backendowych rzeczy
 
-- [create-t3-app](https://github.com/t3-oss/create-t3-app#community)
+- [create-t3-app](https://github.com/t3-oss/create-t3-app)
 - Prisma
 - NextAuth.js
 - tRPC
