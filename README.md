@@ -28,11 +28,11 @@
 
 # 1. Nie Umiem Nic. Jak zacząć?
 
-Jeżeli nie masz pojęcia o Programowaniu, to polecam robić Tutoriale na YouTube. 
+Jeżeli nie masz pojęcia o programowaniu, to polecam robić poradniki na YouTube. 
 
-Ja polecam taki sposób: obejrzeć 2 Tutoriale 10-20 minut (Razem 20/40 minut). Na podstawie tej wiedzy stworzyć coś własnego. 
+Moim zdaniem najlepszy sposób jest taki: obejrzeć 2 poradniki 10-20 minut (razem 20/40 minut) i na podstawie tej wiedzy stworzyć coś własnego. 
 
-Tym sposobem unikniemy Tutorial Hell.
+Tym sposobem unikniemy problemu, że uczymy się samej teorii, której szybko zapomnimy.
 
 ## Zacznijmy od HTMLa. 
 
@@ -130,15 +130,14 @@ Z nich będą:
 
 Ja poleciłbym na początek NextJSa, ale nie ma w tym przypadku złotej zasady. Znajdą się osoby, co powiedzą, że dla początkujących NextJS będzie zbyt ciężki i że lepiej uczyć się najpierw Reacta.
 
-Ale nawet [oficjalne Docsy Reacta](https://react.dev/learn/start-a-new-react-project) mówią, że lepiej od razu się uczyć wybranego Frameworka. Ja podzielam tą opinię.
+Ale nawet [oficjalna Dokumentacja Reacta](https://react.dev/learn/start-a-new-react-project) mówi, że lepiej od razu uczyć się wybranego Frameworka. Ja podzielam tą opinię.
 
-# 5. Nauczyć się systemu pakowania (Bundlera)
+# 5. Wiedzieć jak działają Bundlery
 
-Może to być:
+Takie jak:
 
 - [Turbopack](https://turbo.build/pack)
 - [ViteJS](https://vitejs.dev/)
-- [pnpm](https://pnpm.io/)
 
 Więcej informacji Bundlowaniu w NextJS można znaleźć [tutaj](https://nextjs.org/learn/foundations/how-nextjs-works/bundling).
 
@@ -170,10 +169,13 @@ Polecam:
 
 # 9. Nauczyć się pisania testów.
 
-Polecam:
-- [Playwright](https://playwright.dev/)
-- [Cypress](https://www.cypress.io/)
+Na podstawie [Survey](https://2022.stateofjs.com/en-US/libraries/testing/) z 2022 roku do najpopularniejszych należą:
 
+- [Vitest](https://vitest.dev/)
+- [Playwright](https://playwright.dev/)
+- [Jest](https://jestjs.io/)
+- [Cypress](https://www.cypress.io/)
+  
 # 10. Nauczyć się Backendowych rzeczy
 
 - [create-t3-app](https://github.com/t3-oss/create-t3-app)
@@ -223,7 +225,7 @@ Aktualnie na Rynku brakuje Testerów i testowanie może być dobrym pomysłem, a
 
 # 16. Co jeszcze mogę się nauczyć, aby zwiększyć swoje szanse na rynku jako programista?
 
-## Dla programistów Mid:
+## Dla programistów Mid
 
 - Znajomość Zasad DRY, KISS, Solid. 
 - Znajomość Design Systemu i Design Tokenów
@@ -236,7 +238,7 @@ Aktualnie na Rynku brakuje Testerów i testowanie może być dobrym pomysłem, a
 - Umiejętność robienia Code-Review. 
 - Znajomość Clean Code
 
-## Dla programistów Senior:
+## Dla programistów Senior
 
 - Znajomość Prowadzenia Projektów (Jira, Scrum, Agile)
 - Wysoka umiejętność Komunikacji w Zespole (Pisemnej jak i Słownej)
