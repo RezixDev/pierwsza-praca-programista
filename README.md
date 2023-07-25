@@ -1,7 +1,7 @@
 # Jak znaleźć pierwszą pracę jako Programista
 
 - [Jak znaleźć pierwszą pracę jako Programista](#jak-znaleźć-pierwszą-pracę-jako-programista)
-- [1. Nie Umiem Nic. Jak zacząć?](#1-nie-umiem-nic-jak-zacząć)
+- [1. Nie umiem nic. Jak zacząć?](#1-nie-umiem-nic-jak-zacząć)
   - [Zacznijmy od HTMLa.](#zacznijmy-od-htmla)
   - [Musicie sobie wyobrazić że...](#musicie-sobie-wyobrazić-że)
   - [HTML, CSS i JS](#html-css-i-js)
@@ -25,7 +25,7 @@
   - [Dla programistów Mid:](#dla-programistów-mid)
   - [Dla programistów Senior:](#dla-programistów-senior)
 
-# 1. Nie Umiem nic. Jak zacząć?
+# 1. Nie umiem nic. Jak zacząć?
 
 Jeżeli nie masz pojęcia o programowaniu, to polecam robić poradniki na YouTube.
 
