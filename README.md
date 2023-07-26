@@ -8,22 +8,24 @@
   - [Jako IDE możesz użyć](#jako-ide-możesz-użyć)
 - [2. Coś tam umiem z tego HTMLa, CSSa i JSa... Co dalej?](#2-coś-tam-umiem-z-tego-htmla-cssa-i-jsa-co-dalej)
   - [Załóż Githuba i naucz się go.](#załóż-githuba-i-naucz-się-go)
-- [3. No spoko Rezix, coś tam umiem z tego Githuba i HTMLa, CSSa i JSa, co dalej?](#3-no-spoko-rezix-coś-tam-umiem-z-tego-githuba-i-htmla-cssa-i-jsa-co-dalej)
-- [4. No fajno, umiem HTMLa, CSSa, TSa, co dalej?](#4-no-fajno-umiem-htmla-cssa-tsa-co-dalej)
-- [5. Nauczyć się systemu pakowania (Bundlera)](#5-nauczyć-się-systemu-pakowania-bundlera)
-- [6. Nauczyć się Tailwinda.](#6-nauczyć-się-tailwinda)
-- [7. Pisać własne Projekty, dzielić się doświadczeniami, udzielać się w OpenSource, pomagać innym w programowaniu.](#7-pisać-własne-projekty-dzielić-się-doświadczeniami-udzielać-się-w-opensource-pomagać-innym-w-programowaniu)
-- [8. No ale Rezix, my nie mamy Grafika, nasz Design jest słaby i on źle wygląda.](#8-no-ale-rezix-my-nie-mamy-grafika-nasz-design-jest-słaby-i-on-źle-wygląda)
-- [9. Nauczyć się pisania testów.](#9-nauczyć-się-pisania-testów)
-- [10. Nauczyć się Backendowych rzeczy](#10-nauczyć-się-backendowych-rzeczy)
-- [11. Nauczyć się DevOpsów (Deploye, Pipeline, CI/CD)](#11-nauczyć-się-devopsów-deploye-pipeline-cicd)
-- [12. Bazy Danych jak MySQL, czy PostgreSQL](#12-bazy-danych-jak-mysql-czy-postgresql)
-- [13. Napisać schludne CV i do CV dołączyć plik PDF z projektami które napisaliście na Githubie.](#13-napisać-schludne-cv-i-do-cv-dołączyć-plik-pdf-z-projektami-które-napisaliście-na-githubie)
-- [14. Jak rozmawiać, jak zachowywać się na Rozmowie Kwalifikacyjnej?](#14-jak-rozmawiać-jak-zachowywać-się-na-rozmowie-kwalifikacyjnej)
-- [15. Ale Rezix, ja wszystko zrobiłem jak powiedziałeś i ja dalej nie mam pracy!](#15-ale-rezix-ja-wszystko-zrobiłem-jak-powiedziałeś-i-ja-dalej-nie-mam-pracy)
-- [16. Co jeszcze mogę się nauczyć, aby zwiększyć swoje szanse na rynku jako programista?](#16-co-jeszcze-mogę-się-nauczyć-aby-zwiększyć-swoje-szanse-na-rynku-jako-programista)
-  - [Dla programistów Mid:](#dla-programistów-mid)
-  - [Dla programistów Senior:](#dla-programistów-senior)
+- [3. Naucz się używania REST API](#3-naucz-się-używania-rest-api)
+- [4. Naucz się TSa](#4-naucz-się-tsa)
+- [5. Naucz się używania popularnego Frontendowego Frameworka](#5-naucz-się-używania-popularnego-frontendowego-frameworka)
+- [6. Wiedzieć jak działają bundlery](#6-wiedzieć-jak-działają-bundlery)
+- [7. Nauczyć się Tailwinda.](#7-nauczyć-się-tailwinda)
+- [8. Pisać własne projekty, dzielić się doświadczeniami, udzielać się w open source, pomagać innym w programowaniu.](#8-pisać-własne-projekty-dzielić-się-doświadczeniami-udzielać-się-w-open-source-pomagać-innym-w-programowaniu)
+- [9. Nauczyć się UI/UX Designu](#9-nauczyć-się-uiux-designu)
+- [10. Nauczyć się pisania testów.](#10-nauczyć-się-pisania-testów)
+- [11. Nauczyć się pisania Backenda](#11-nauczyć-się-pisania-backenda)
+- [12. Nauczyć się tematów DevOpsowych (Deploye, Pipeline, CI/CD)](#12-nauczyć-się-tematów-devopsowych-deploye-pipeline-cicd)
+- [13. Nauczyć się używania Baz Danych](#13-nauczyć-się-używania-baz-danych)
+- [14. Napisać schludne CV i do CV dołączyć plik PDF z projektami które napisaliście na Githubie.](#14-napisać-schludne-cv-i-do-cv-dołączyć-plik-pdf-z-projektami-które-napisaliście-na-githubie)
+- [15. Jak rozmawiać i jak się zachowywać na rozmowie kwalifikacyjnej?](#15-jak-rozmawiać-i-jak-się-zachowywać-na-rozmowie-kwalifikacyjnej)
+- [16. Ale Rezix, ja wszystko zrobiłem jak powiedziałeś i ja dalej nie mam pracy!](#16-ale-rezix-ja-wszystko-zrobiłem-jak-powiedziałeś-i-ja-dalej-nie-mam-pracy)
+- [17. Co jeszcze mogę się nauczyć, aby zwiększyć swoje szanse na rynku jako programista?](#17-co-jeszcze-mogę-się-nauczyć-aby-zwiększyć-swoje-szanse-na-rynku-jako-programista)
+  - [Dla programistów Mid](#dla-programistów-mid)
+  - [Dla programistów Senior](#dla-programistów-senior)
+
 
 # 1. Nie umiem nic. Jak zacząć?
 
@@ -59,7 +61,7 @@ W sensie jak dacie na choinkę światełka to jakoś trzeba nimi sterować. No i
 JSem mógłbyś włączyć i wyłączyć światełka. Zmienić kolory, zmienić czas ich świecenia się.
 
 Niech to będzie twój pierwszy challange.
-Zrób choinkę. Szkielet HTML to nazwy i klasy. CSSem dajesz kolory i ozdoby. Przy pomocy JSa możesz tą choinkę zanimować. Sterowanie światełkami choinki może się odbyć przy pomocy przycisków. Chcesz żeby twoja choinka trafiła do Examples? Zrób commit do projektu :)
+Zrób choinkę. Szkielet HTML to nazwy i klasy. CSSem dajesz kolory i ozdoby. Przy pomocy JSa możesz tą choinkę zanimować. Sterowanie światełkami choinki może się odbyć przy pomocy przycisków. 
 
 ## Jako IDE możesz użyć
 
@@ -88,8 +90,23 @@ Listę Discordów o programowaniu znajdziesz bez problemu w Google.
 
 Naucz się robić forki i pull requesty.
 
-# 3. No spoko Rezix, coś tam umiem z tego Githuba i HTMLa, CSSa i JSa, co dalej?
+Chcesz przetestować robienie kontrybucji i chcesz żeby twoja choinka trafiła do Examples? 
 
+Zrób commit do projektu :)
+
+# 3. Naucz się używania REST API
+
+Naucz się używać API. Nie musi to być jakieś bardzo skomplikowane API. Wystarczy, żebyś mógł być w stanie odbierać proste dane przy pomocy REST API. 
+
+To ciebie nauczy debugowania i rozwiązywania pierwszych bardziej skomplikowanych problemów. 
+
+Między innymi asynchroniczności. 
+
+Aby lepiej ten koncept zrozumieć byś mógł na początek stworzyć dwa projekty:
+- projekt gdzie wykorzystujemy jakieś podstawowe API i czekamy na odpowiedź
+- projekt gdzie wykorzystujemy swoje własne API. W tym momencie tworzymy swój własny Frontend jak i Backend. 
+
+# 4. Naucz się TSa
 Naucz się TSa. Ja wiem, zwariowanie co nie? Po co mam się teraz uczyć TSa? Nie mogłeś mi go od razu polecić? TS jest moim zdaniem ciutkę trudniejszy w programowaniu. Dochodzi dodatkowo proces kompilacji kodu i instalowania Node.
 
 Zainstaluj teraz Node.js i NPMa:
@@ -102,7 +119,7 @@ Jak nie chcesz jeszcze instalować TSa, to zawsze możesz się nim pobawić na T
 - [TS Playground](https://www.typescriptlang.org/play)
 - [TypeScript Tutorial](https://www.youtube.com/watch?v=30LWjhZzg50)
 
-# 4. No fajno, umiem HTMLa, CSSa, TSa, co dalej?
+# 5. Naucz się używania popularnego Frontendowego Frameworka
 
 Teraz jest kilka dróg rozwoju. Tak jak w Pokemonach pierwszy wybór jest ciężki:
 
@@ -130,7 +147,7 @@ Ja poleciłbym na początek NextJSa, ale nie ma w tym przypadku złotej zasady. 
 
 Ale nawet [oficjalna Dokumentacja Reacta](https://react.dev/learn/start-a-new-react-project) mówi, że lepiej od razu uczyć się wybranego Frameworka. Ja podzielam tą opinię.
 
-# 5. Wiedzieć jak działają bundlery
+# 6. Wiedzieć jak działają bundlery
 
 Takie jak:
 
@@ -139,17 +156,17 @@ Takie jak:
 
 Więcej informacji bundlowaniu w NextJS można znaleźć [tutaj](https://nextjs.org/learn/foundations/how-nextjs-works/bundling).
 
-# 6. Nauczyć się Tailwinda.
+# 7. Nauczyć się Tailwinda.
 
 [TailwindCSS](https://tailwindcss.com/) to takie ułatwienie, które pozwala wam większą kontrolę nad CSSem w projekcie zachować.
 
 No okey. Umiem HTMLa, TSa, wiem jak działa CSS i umiem Tailwinda, umiem też w miarę proste aplikacje w wybranym przeze mnie frameworku pisać. Co dalej?
 
-# 7. Pisać własne projekty, dzielić się doświadczeniami, udzielać się w open source, pomagać innym w programowaniu.
+# 8. Pisać własne projekty, dzielić się doświadczeniami, udzielać się w open source, pomagać innym w programowaniu.
 
 Znaleźć kilka osób aby stworzyć wspólnie projekt programistyczny. Co ciekawe, moim zdaniem dobre i zdrowe community jest tym co ci najbardziej pomoże Tobie w twojej drodze do znalezienia pracy jako programista.
 
-# 8. No ale Rezix, my nie mamy Grafika, nasz Design jest słaby i on źle wygląda.
+# 9. Nauczyć się UI/UX Designu
 
 Nauczyć się [Figmy](https://www.figma.com) i UI/UX Designu.
 
@@ -167,7 +184,7 @@ Polecam:
 - [MalewiczHype](https://www.youtube.com/@MalewiczHype)
 - [Hype4 Academy](https://hype4.academy/articles)
 
-# 9. Nauczyć się pisania testów.
+# 10. Nauczyć się pisania testów.
 
 Na podstawie [Survey](https://2022.stateofjs.com/en-US/libraries/testing/) z 2022 roku do najpopularniejszych należą:
 
@@ -176,14 +193,14 @@ Na podstawie [Survey](https://2022.stateofjs.com/en-US/libraries/testing/) z 202
 - [Jest](https://jestjs.io/)
 - [Cypress](https://www.cypress.io/)
 
-# 10. Nauczyć się backendowych rzeczy
+# 11. Nauczyć się pisania Backenda
 
 - [create-t3-app](https://github.com/t3-oss/create-t3-app)
 - Prisma
 - NextAuth.js
 - tRPC
 
-# 11. Nauczyć się DevOpsów (Deploye, Pipeline, CI/CD)
+# 12. Nauczyć się tematów DevOpsowych (Deploye, Pipeline, CI/CD)
 
 Najlepiej Vercela, to będziecie mogli hostować swoje projekty na Githubie.
 
@@ -194,9 +211,12 @@ Do tego jako bonus można jeszcze nauczyć się:
 - AWS
 - Terraform
 
-# 12. Bazy Danych jak MySQL, czy PostgreSQL
+# 13. Nauczyć się używania Baz Danych 
+- MongoDB
+- MySQL
+- PostgreSQL
 
-# 13. Napisać schludne CV i do CV dołączyć plik PDF z projektami które napisaliście na Githubie.
+# 14. Napisać schludne CV i do CV dołączyć plik PDF z projektami które napisaliście na Githubie.
 
 Ja bym dodał do każdego projektu opis i do każdego projektu jeden screenshot aplikacji. Zdjęcie w CV to jest obowiązek. Zróbcie najlepiej do tego zdjęcia wizytę u fotografa.
 
@@ -204,7 +224,7 @@ Ja bym się ograniczył do max 5 dużych projektów, albo 10 małych. Albo zdrow
 
 Pamiętajcie. Wasz Github jest ważniejszą reprezentacją waszej osoby jako programisty, niż podanie o pracę, czy tam CV. W CV możecie nazmyślać, na Githubie już będzie to ciężej.
 
-# 14. Jak rozmawiać, jak zachowywać się na rozmowie kwalifikacyjnej?
+# 15. Jak rozmawiać i jak się zachowywać na rozmowie kwalifikacyjnej?
 
 Przede wszystkim być na luzie. Jak wy się będziecie stresować, to prawdopodobnie rekruter też. Kilka razy siedziałem po drugiej stronie stolika i jak kandydat spocony od stresu przychodzi na rozmowę i coś tam duka pod nosem, że umie pisać w TSie patrząc się jednocześnie w stronę stolika, albo szklankę z wodą to w 95% przypadków nie dostanie tej roboty.
 
@@ -214,7 +234,7 @@ My mieliśmy naprawdę u nas w firmie wielu kandydatów, którzy dużo umieli, a
 
 Z drugiej strony mieliśmy kandydatów, którzy przychodzili na rozmowę uśmiechnięci i pełni zapału. Nie umieli wiele, ale byli gotowi się nauczyć tego co potrzeba.
 
-# 15. Ale Rezix, ja wszystko zrobiłem jak powiedziałeś i ja dalej nie mam pracy!
+# 16. Ale Rezix, ja wszystko zrobiłem jak powiedziałeś i ja dalej nie mam pracy!
 
 Zmień taktykę. Naucz się Angulara, albo Vue. Albo idź na testera aplikacji.
 
@@ -224,7 +244,7 @@ Moja analiza z 23 Lipca 2023 roku pokazała, że na ten czas łatwiej jest znale
 
 Aktualnie na rynku brakuje testerów i testowanie może być dobrym pomysłem, aby wejść w branżę IT.
 
-# 16. Co jeszcze mogę się nauczyć, aby zwiększyć swoje szanse na rynku jako programista?
+# 17. Co jeszcze mogę się nauczyć, aby zwiększyć swoje szanse na rynku jako programista?
 
 ## Dla programistów Mid
 
